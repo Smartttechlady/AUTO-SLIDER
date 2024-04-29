@@ -1,0 +1,1 @@
+This is an automated slider to demonstrate my knowledge of javascript. check out this link: http://
